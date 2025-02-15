@@ -2,6 +2,21 @@
   "name": "the-wild-oasis",
   "private": true,
   "version": "0.0.0",
+  "builds": [
+      {
+        "src": "server.js",
+        "use": "@vercel/node",
+        "config": {
+          "includeFiles": ["db.json"]
+        }
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "server.js"
+      }
+    ],
   "type": "module",
   "scripts": {
     "dev": "vite",
