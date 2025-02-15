@@ -78,4 +78,4 @@ Questo progetto è distribuito sotto licenza MIT.
 
 👨‍💻 Creato da: Giovanni La Scala
 
-# gls-the-wild-oasis
+https://glswildoasisproject.netlify.app/
