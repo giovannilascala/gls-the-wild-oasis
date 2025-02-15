@@ -38,7 +38,7 @@ Autenticazione: (Da specificare se utilizzi Firebase, Supabase o altro backend)
 
 Clona il repository
 
-git clone https://github.com/tuo-username/wild-oasis.git
+git clone https://github.com/giovannilascala/gls-the-wild-oasis.git
 cd wild-oasis
 
 Installa le dipendenze
@@ -50,32 +50,20 @@ Avvia il server di sviluppo
 npm run dev
 
 Accedi all'applicazione
-Apri il browser su http://localhost:5173/ (o la porta specificata da Vite).
+Apri il browser su https://glswildoasisproject.netlify.app/.
 
 🚀 Deploy
 
-L'applicazione è attualmente deployata su Netlify.
-
-🔗 Link live: The Wild Oasis
+L'applicazione è attualmente deployata su Netlify e Vercel.
 
 🤝 Contributi
 
 Se vuoi contribuire al progetto:
 
-Fai un fork del repository
-
-Crea un branch con la tua feature (git checkout -b feature/nuova-feature)
-
-Fai il commit delle modifiche (git commit -m "Aggiunta nuova feature")
-
-Push sul branch (git push origin feature/nuova-feature)
-
-Apri una Pull Request
+Scrivimi alla email giovanni.lascala.07.gls@gmail.com
 
 📜 Licenza
 
 Questo progetto è distribuito sotto licenza MIT.
 
 👨‍💻 Creato da: Giovanni La Scala
-
-https://glswildoasisproject.netlify.app/
