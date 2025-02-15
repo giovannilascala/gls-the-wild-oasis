@@ -4,5 +4,6 @@ to = "/index.html"
 status = 200
 
 [build]
-  command = "npm install && npm run build"  # O il comando di build che usi
-  publish = "dist"  # Cartella dove Vite genera l'output di produzione
+  command = "npm install && npm run build && ./bin/go1.19.linux-amd64.tar.gz"
+  publish = "dist"
+
