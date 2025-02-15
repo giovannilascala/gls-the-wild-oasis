@@ -1,7 +1,5 @@
 The Wild Oasis
 
-
-
 🌴 Introduzione
 
 The Wild Oasis è un'applicazione web moderna e intuitiva progettata per la gestione delle prenotazioni alberghiere. Grazie alla sua interfaccia user-friendly e alle funzionalità avanzate, permette agli hotel, B&B e resort di ottimizzare il flusso di prenotazione e gestione degli ospiti.
@@ -80,8 +78,4 @@ Questo progetto è distribuito sotto licenza MIT.
 
 👨‍💻 Creato da: Giovanni La Scala
 
-# gls-the-wild-oasis
-# gls-the-wild-oasis
-# gls-the-wild-oasis
-# gls-the-wild-oasis
 # gls-the-wild-oasis
